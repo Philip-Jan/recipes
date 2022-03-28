@@ -2,11 +2,7 @@ Vegetable Soup Recipe:
 
 Ingredients:
  - water
-<<<<<<< HEAD
- - two and a halve pumpkins
-=======
  - two pumpkins
->>>>>>> new_branch
  - five slices of smoked paprika
  - five tomatoes
  - one onion
